@@ -20,6 +20,10 @@ summary: Little red squares learn to avoid "meteors".
 
 <div class="tenor-gif-embed" data-postid="10480536" data-share-method="host" data-width="100%" data-aspect-ratio="1.3174603174603174"><a href="https://tenor.com/view/error-wait-computer-download-cat-gif-10480536">Error Wait GIF</a> from <a href="https://tenor.com/search/error-gifs">Error GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+<img src="../images/cat_gif.gif" alt="This is an animated gif image, but it does not move"/>
+
+<img class="ui medium right floated rounded image" src="../images/cat_gif.gif">
+
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
