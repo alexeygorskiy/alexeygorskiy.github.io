@@ -26,8 +26,11 @@ The whole population and the best individual of every fifth generation:
 <img class="ui medium left floated rounded image" src="../images/cat_gif.gif">
 <img class="ui medium right floated rounded image" src="../images/cat_gif.gif">
 
-<h1>How It Works</h1>
-The red squares die if they are hit by one of the grey squares. However, the red squares can “see” a certain distance around themselves:
+<div class="how_it_works">
+  <h1>How It Works</h1>
+  <p>The red squares die if they are hit by one of the grey squares. However, the red squares can “see” a certain distance around themselves:
+</p>
+</div>
 
 <img class="ui medium centered rounded image" src="../images/spaceship_img.png">
 
