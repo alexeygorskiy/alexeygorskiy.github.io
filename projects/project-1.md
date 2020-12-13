@@ -21,7 +21,7 @@ The goal of this project was to design an environment where little red squares (
 
 The whole population and the best individual of every fifth generation:
 
-<div class="ui medium floated rounded images">
+<div class="ui medium centered floated rounded images">
   <img class="ui image" src="../images/cat_gif.gif">
   <img class="ui image" src="../images/cat_gif.gif">
   <img class="ui image" src="../images/cat_gif.gif">
