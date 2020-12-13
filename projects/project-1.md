@@ -16,9 +16,7 @@ summary: Little red squares learn to avoid "meteors".
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-
-
-
+<iframe src="https://giphy.com/embed/MxAGWdkQlQdFZbLRTA" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MarmiteOfficial-marmite-cat-vibing-love-it-or-hate-MxAGWdkQlQdFZbLRTA">via GIPHY</a></p>
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
