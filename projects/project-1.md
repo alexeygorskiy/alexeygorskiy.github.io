@@ -24,14 +24,14 @@ The whole population and the best individual   every fifth generation:
 <div class="ui medium centered floated rounded images">
   <img class="ui image" src="../images/gen0.gif">
   <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen5.gif">
+  <img class="ui image" src="../images/gen5.gif">
+  <img class="ui image" src="../images/gen10.gif">
+  <img class="ui image" src="../images/gen10.gif">
+  <img class="ui image" src="../images/gen15.gif">
+  <img class="ui image" src="../images/gen15.gif">
+  <img class="ui image" src="../images/gen20.gif">
+  <img class="ui image" src="../images/gen20.gif">
 </div>
 
 
