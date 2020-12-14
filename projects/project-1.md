@@ -19,20 +19,26 @@ The goal of this project was to design an environment where little red squares (
 
 <img class="ui medium centered rounded image" src="../images/cat_gif.gif">
 
-The whole population and the best individual of every fifth generation:
+The whole population and the best individual   every fifth generation:
 
 <div class="ui medium centered floated rounded images">
-  <img class="ui image" src="../images/cat_gif.gif">
-  <img class="ui image" src="../images/cat_gif.gif">
-  <img class="ui image" src="../images/cat_gif.gif">
-  <img class="ui image" src="../images/cat_gif.gif">
+  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen0.gif">
 </div>
 
 
 <h1>How It Works</h1>
 The red squares die if they are hit by one of the grey squares. However, the red squares can “see” a certain distance around themselves:
 
-<img class="ui medium centered rounded image" src="../images/spaceship_img.png">
+<img class="ui large centered rounded image" src="../images/spaceship_img.png">
 
 If a grey square overlaps with one of the green points, the red square will know that and will be able to decide where to move based on that. The red square will also know if one of the green points is outside the bounds of the map. To be able to make decisions the red square is equipped with a neural network that takes the state of the green points as inputs and outputs a decision:
 
