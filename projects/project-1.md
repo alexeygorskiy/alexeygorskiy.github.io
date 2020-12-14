@@ -17,59 +17,59 @@ summary: Little red squares learn to avoid "meteors".
 <h1>Problem Description</h1>
 The goal of this project was to design an environment where little red squares (envisioned as spaceships in space) learn to avoid little grey squared (envisioned as meteors). Below is a demonstration of the best individual after 20 generations of training:
 
-<video width="600" height="715" controls>
+<video width="330" height="395" controls>
   <source src="../images/bestof_gen20_14s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 The whole population and the best individual every fifth generation:
 
-<video width="300" height="360" controls>
+<video width="330" height="395" controls>
   <source src="../images/gen0_8s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="320" height="360" controls>
+<video width="330" height="395" controls>
   <source src="../images/bestof_gen0_1s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="300" height="360" controls>
+<video width="330" height="395" controls>
   <source src="../images/gen5_13s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="320" height="360" controls>
+<video width="330" height="395" controls>
   <source src="../images/bestof_gen5_4s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="300" height="360" controls>
+<video width="330" height="395" controls>
   <source src="../images/gen10_16s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="320" height="360" controls>
+<video width="330" height="395" controls>
   <source src="../images/bestof_gen10_6s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="300" height="360" controls>
+<video width="330" height="395" controls>
   <source src="../images/gen15_25s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="320" height="360" controls>
+<video width="330" height="395" controls>
   <source src="../images/bestof_gen15_7s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="300" height="360" controls>
+<video width="330" height="395" controls>
   <source src="../images/gen20_52s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="320" height="360" controls>
+<video width="330" height="395" controls>
   <source src="../images/bestof_gen20_14s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
