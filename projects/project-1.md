@@ -32,18 +32,17 @@ The whole population and the best individual every fifth generation:
   <img class="ui image" src="../images/gen15.gif">
   <img class="ui image" src="../images/gen20.gif">
   <img class="ui image" src="../images/gen20.gif">
+</div>
 
-  <video width="300" height="360" controls>
+<video width="300" height="360" controls>
   <source src="../images/bestof_gren15.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
 <video width="320" height="360" controls>
   <source src="../images/bestof_gren15.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-
-</div>
-
 
 <h1>How It Works</h1>
 The red squares die if they are hit by one of the grey squares. However, the red squares can “see” a certain distance around themselves:
