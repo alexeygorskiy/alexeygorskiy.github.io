@@ -17,13 +17,14 @@ summary: Little red squares learn to avoid "meteors".
 <h1>Problem Description</h1>
 The goal of this project was to design an environment where little red squares (envisioned as spaceships in space) learn to avoid little grey squared (envisioned as meteors). Below is a demonstration of the best individual after 20 generations of training:
 
-<video width="330" height="395" controls>
-  <source src="../images/bestof_gen20_14s.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<video class="center" width="330" height="395" controls>
+    <source src="../images/bestof_gen20_14s.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
-The whole population and the best individual every fifth generation:
+<h1>Below are snapshots of the whole population every fifth generation as well as the best individual of that generation:</h1>
 
+Generation 0
 <video width="330" height="395" controls>
   <source src="../images/gen0_8s.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -34,6 +35,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
+Generation 5
 <video width="330" height="395" controls>
   <source src="../images/gen5_13s.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -44,6 +46,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
+Generation 10
 <video width="330" height="395" controls>
   <source src="../images/gen10_16s.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -54,6 +57,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
+Generation 15
 <video width="330" height="395" controls>
   <source src="../images/gen15_25s.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -64,6 +68,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
+Generation 20
 <video width="330" height="395" controls>
   <source src="../images/gen20_52s.mp4" type="video/mp4">
 Your browser does not support the video tag.
