@@ -35,12 +35,12 @@ The whole population and the best individual every fifth generation:
 </div>
 
 <video width="300" height="360" controls>
-  <source src="../images/bestof_gren15.mp4" type="video/mp4">
+  <source src="../images/bestof_gen15.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 <video width="320" height="360" controls>
-  <source src="../images/bestof_gren15.mp4" type="video/mp4">
+  <source src="../images/bestof_gen15.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
