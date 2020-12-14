@@ -15,34 +15,65 @@ summary: Little red squares learn to avoid "meteors".
 ---
 
 <h1>Problem Description</h1>
-The goal of this project was to design an environment where little red squares (envisioned as spaceships in space) learn to avoid little grey squared (envisioned as meteors). Below is a demonstration of the best individual after x generations of training:
+The goal of this project was to design an environment where little red squares (envisioned as spaceships in space) learn to avoid little grey squared (envisioned as meteors). Below is a demonstration of the best individual after 20 generations of training:
 
-<img class="ui medium centered rounded image" src="../images/cat_gif.gif">
+<video width="600" height="715" controls>
+  <source src="../images/bestof_gen20_14s.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 The whole population and the best individual every fifth generation:
 
-<div class="ui medium centered floated rounded images">
-  <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen5.gif">
-  <img class="ui image" src="../images/gen5.gif">
-  <img class="ui image" src="../images/gen10.gif">
-  <img class="ui image" src="../images/gen10.gif">
-  <img class="ui image" src="../images/gen15.gif">
-  <img class="ui image" src="../images/gen15.gif">
-  <img class="ui image" src="../images/gen20.gif">
-  <img class="ui image" src="../images/gen20.gif">
-</div>
-
 <video width="300" height="360" controls>
-  <source src="../images/bestof_gen15.mp4" type="video/mp4">
+  <source src="../images/gen0_8s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 <video width="320" height="360" controls>
-  <source src="../images/bestof_gen15.mp4" type="video/mp4">
+  <source src="../images/bestof_gen0_1s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<video width="300" height="360" controls>
+  <source src="../images/gen5_13s.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="360" controls>
+  <source src="../images/bestof_gen5_4s.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="300" height="360" controls>
+  <source src="../images/gen10_16s.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="360" controls>
+  <source src="../images/bestof_gen10_6s.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="300" height="360" controls>
+  <source src="../images/gen15_25s.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="360" controls>
+  <source src="../images/bestof_gen15_7s.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="300" height="360" controls>
+  <source src="../images/gen20_52s.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="360" controls>
+  <source src="../images/bestof_gen20_14s.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 
 <h1>How It Works</h1>
 The red squares die if they are hit by one of the grey squares. However, the red squares can “see” a certain distance around themselves:
@@ -60,7 +91,20 @@ Over many generations the red squares evolve through the process of artificial n
 
 Source: <a href="https://github.com/alexeygorskiy/meteor_shower"><i class="large github icon"></i>alexeygorskiy/meteor_shower</a>
 
-
+<!--
+<div class="ui medium centered floated rounded images">
+  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen0.gif">
+  <img class="ui image" src="../images/gen5.gif">
+  <img class="ui image" src="../images/gen5.gif">
+  <img class="ui image" src="../images/gen10.gif">
+  <img class="ui image" src="../images/gen10.gif">
+  <img class="ui image" src="../images/gen15.gif">
+  <img class="ui image" src="../images/gen15.gif">
+  <img class="ui image" src="../images/gen20.gif">
+  <img class="ui image" src="../images/gen20.gif">
+</div>
+-->
 
 <!--
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
