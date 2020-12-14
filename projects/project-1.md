@@ -19,7 +19,7 @@ The goal of this project was to design an environment where little red squares (
 
 <img class="ui medium centered rounded image" src="../images/cat_gif.gif">
 
-The whole population and the best individual   every fifth generation:
+The whole population and the best individual every fifth generation:
 
 <div class="ui medium centered floated rounded images">
   <img class="ui image" src="../images/gen0.gif">
@@ -32,6 +32,16 @@ The whole population and the best individual   every fifth generation:
   <img class="ui image" src="../images/gen15.gif">
   <img class="ui image" src="../images/gen20.gif">
   <img class="ui image" src="../images/gen20.gif">
+
+  <video width="300" height="360" controls>
+  <source src="../images/bestof_gren15.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<video width="320" height="360" controls>
+  <source src="../images/bestof_gren15.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 </div>
 
 
