@@ -15,9 +15,9 @@ summary: Little red squares learn to avoid "meteors".
 ---
 
 <h1>Problem Description</h1>
-The goal of this project was to design an environment where little red squares (envisioned as spaceships in space) learn to avoid little grey squared (envisioned as meteors). Below is a demonstration of the best individual after 20 generations of training:
+The goal of this project was to design an environment where little red squares (envisioned as spaceships in space) learn to avoid little grey squares (envisioned as meteors). Below is a demonstration of the best individual after 20 generations of training:
 
-<video class="center" width="330" height="395" controls>
+<video width="330" height="395" controls>
     <source src="../images/bestof_gen20_14s.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -85,14 +85,20 @@ The red squares die if they are hit by one of the grey squares. However, the red
 
 <img class="ui large centered rounded image" src="../images/spaceship_img.png">
 
-If a grey square overlaps with one of the green points, the red square will know that and will be able to decide where to move based on that. The red square will also know if one of the green points is outside the bounds of the map. To be able to make decisions the red square is equipped with a neural network that takes the state of the green points as inputs and outputs a decision:
+If a grey square overlaps with one of the blue points, the red square will know that and will be able to decide where to move based on that. The red square will also know if one of the blue points is outside the bounds of the map. To be able to make decisions the red square is equipped with a neural network that takes the state of the blue points as inputs and outputs a decision:
 
 <img class="ui medium centered rounded image" src="../images/neural_network.png">
 
-The outputs can either be -1, 0 or 1. The numbers correspond to whether to decrease, leave unchanged or increase a coordinate. Output 1 controls the x-coordinate and output 2 the y-coordinate. If for example both outputs are ones, then the red square will move north east.
+The outputs can either be -1, 0 or 1. The numbers correspond to whether to decrease, leave unchanged or increase a coordinate. Output 1 controls the x-coordinate and output 2 the y-coordinate. If for example both outputs are ones, then the red square will move towards north east.
 The red squares are rewarded based on how long they survive. When all the red squares die, the current generation ends and the squares that survived the longest are chosen as parents for the next generation. The weights of the parents’ neural networks are combined to produce new networks for the next generation.
 
 Over many generations the red squares evolve through the process of artificial natural selection to eventually avoid the grey squares. In the end they become much better than a human at achieving the given task.
+
+With a small tweak to the reward function, the red squares can learn to solve a number of other problems as well:
+
+Chasing the grey squares (can be envisioned as food in this scenario)
+
+Completing a track
 
 Source: <a href="https://github.com/alexeygorskiy/meteor_shower"><i class="large github icon"></i>alexeygorskiy/meteor_shower</a>
 
