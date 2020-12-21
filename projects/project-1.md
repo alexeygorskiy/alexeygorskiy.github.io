@@ -7,10 +7,11 @@ permalink: projects/meteor_shower
 # All dates must be YYYY-MM-DD format!
 date: 2020-11-08
 labels:
-  - Python
-  - Neural Networks
   - Machine Learning and AI
+  - Reinforcement Learning
   - Genetic Algorithms
+  - Neural Networks
+  - Python
 summary: Little red squares learn to avoid "meteors".
 ---
 
