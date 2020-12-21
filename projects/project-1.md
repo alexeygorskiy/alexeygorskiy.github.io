@@ -26,7 +26,7 @@ The goal of this project was to design an environment where little red squares (
 
 <h1>Below are snapshots of the whole population every fifth generation as well as the best individual of that generation:</h1>
 
-Generation 0
+**Generation 0**
 <video width="330" height="395" controls>
   <source src="../images/gen0_8s.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -37,7 +37,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
-Generation 5
+**Generation 5**
 <video width="330" height="395" controls>
   <source src="../images/gen5_13s.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -48,7 +48,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
-Generation 10
+**Generation 10**
 <video width="330" height="395" controls>
   <source src="../images/gen10_16s.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -59,7 +59,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
-Generation 15
+**Generation 15**
 <video width="330" height="395" controls>
   <source src="../images/gen15_25s.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -70,7 +70,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
-Generation 20
+**Generation 20**
 <video width="330" height="395" controls>
   <source src="../images/gen20_52s.mp4" type="video/mp4">
 Your browser does not support the video tag.
