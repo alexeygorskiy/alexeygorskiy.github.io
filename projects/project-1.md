@@ -94,11 +94,17 @@ The red squares are rewarded based on how long they survive. When all the red sq
 
 Over many generations the red squares evolve through the process of artificial natural selection to eventually avoid the grey squares. In the end they become much better than a human at achieving the given task.
 
-With a small tweak to the reward function, the red squares can learn to solve a number of other problems as well:
+By adjusting the reward function, network topology and the genetic algorithm, the squares can learn to solve other problems as well, such as chasing the grey squares (could be envisioned as food), navigating a track and many more.
 
-Chasing the grey squares (can be envisioned as food in this scenario)
+<video width="330" height="395" controls>
+  <source src="../images/food_problem_30s.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-Completing a track
+<video width="330" height="330" controls>
+  <source src="../images/track_problem_34s.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 Source: <a href="https://github.com/alexeygorskiy/meteor_shower"><i class="large github icon"></i>alexeygorskiy/meteor_shower</a>
 
