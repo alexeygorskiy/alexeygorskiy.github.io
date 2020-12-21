@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/meteor_shower_icon.png
 title: Meteor Shower
 permalink: projects/meteor_shower
 # All dates must be YYYY-MM-DD format!
@@ -13,6 +13,8 @@ labels:
   - Genetic Algorithms
 summary: Little red squares learn to avoid "meteors".
 ---
+
+Source: <a href="https://github.com/alexeygorskiy/meteor_shower"><i class="large github icon"></i>alexeygorskiy/meteor_shower</a>
 
 <h1>Problem Description</h1>
 The goal of this project was to design an environment where little red squares (envisioned as spaceships in space) learn to avoid little grey squares (envisioned as meteors). Below is a demonstration of the best individual after 20 generations of training:
@@ -105,33 +107,3 @@ Your browser does not support the video tag.
   <source src="../images/track_problem_34s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-
-Source: <a href="https://github.com/alexeygorskiy/meteor_shower"><i class="large github icon"></i>alexeygorskiy/meteor_shower</a>
-
-<!--
-<div class="ui medium centered floated rounded images">
-  <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen0.gif">
-  <img class="ui image" src="../images/gen5.gif">
-  <img class="ui image" src="../images/gen5.gif">
-  <img class="ui image" src="../images/gen10.gif">
-  <img class="ui image" src="../images/gen10.gif">
-  <img class="ui image" src="../images/gen15.gif">
-  <img class="ui image" src="../images/gen15.gif">
-  <img class="ui image" src="../images/gen20.gif">
-  <img class="ui image" src="../images/gen20.gif">
-</div>
--->
-
-<!--
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
-
-<img class="ui medium right floated rounded image" src="../images/cat_gif.gif">
--->
-
-<!--
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming.-->
