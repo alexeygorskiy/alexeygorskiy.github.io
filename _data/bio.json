@@ -28,6 +28,16 @@
   },
   "interests": [
     {
+      "name": "software development",
+      "keywords": [
+        ]
+    },
+    {
+      "name": "robotics",
+      "keywords": [
+        ]
+    },
+    {
       "name": "machine learning and AI",
       "keywords": [
         ]
