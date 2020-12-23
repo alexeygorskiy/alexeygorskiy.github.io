@@ -12,7 +12,7 @@ labels:
   - Genetic Algorithms
   - Neural Networks
   - Python
-summary: Little red squares learn to avoid "meteors".
+summary: Little red squares learn to avoid "meteors" with the help of machine learning.
 ---
 
 Source: <a href="https://github.com/alexeygorskiy/meteor_shower"><i class="large github icon"></i>alexeygorskiy/meteor_shower</a>
