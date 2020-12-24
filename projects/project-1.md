@@ -8,7 +8,6 @@ permalink: projects/meteor_shower
 date: 2020-11-08
 labels:
   - Machine Learning and AI
-  - Reinforcement Learning
   - Genetic Algorithms
   - Neural Networks
   - Python
