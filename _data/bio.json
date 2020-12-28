@@ -6,7 +6,7 @@
     "email": "alexey.gorskiy@gmail.com",
     "phone": "+46 73 815 01 96",
     "website": "https://alexeygorskiy.github.io/",
-    "summary": "Engineering student and part-time TA with a passion for machine learning and AI.",
+    "summary": "Engineering student and part-time TA with a passion for software development and machine learning.",
     "location": {
       "address": "Gibraltargatan 94",
       "postalCode": "412 79",
@@ -53,7 +53,7 @@
         "C",
         "Assembly",
         "PLC",
-        "Matlab",
+        "MATLAB",
       ]
     },
     {
