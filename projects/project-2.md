@@ -50,7 +50,7 @@ The mouse has a limited line of sight and in the beginning has no idea where or 
 
 <img class="ui large centered rounded image" src="../images/expected_reward_view.png">
 
-The next time it finds itself in one of these tiles, it will remember that there is a high expected reward associated with those tiles and will thus move towards them. As the mouse explores the map, it will assign a value to every tile on the map that will be lower the further away the tile is from the cheese. After a number of games, the map will be explored and pretty much all the tiles will have an associated value of expected reward:
+The next time it sees those tiles, it will remember that there is a high expected reward associated with them and will thus move towards them. As the mouse explores the map, it will assign a value to every tile on the map that will be lower the further away the tile is from the cheese. After a number of games, the map will be explored and pretty much all the tiles will have an associated value of expected reward:
 
 <img class="ui large centered rounded image" src="../images/expected_reward_complete.png">
 
