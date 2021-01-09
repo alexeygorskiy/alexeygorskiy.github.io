@@ -10,6 +10,14 @@ baseurl: ""
 plugins:
   - jekyll-sitemap
 
+  defaults:
+  -
+    scope:
+      path:            "essays/**/*.pdf"
+    values:
+      sitemap:         false
+
+
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
 bio-page-label: Resume
