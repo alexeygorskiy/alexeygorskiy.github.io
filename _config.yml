@@ -10,12 +10,6 @@ baseurl: ""
 plugins:
   - jekyll-sitemap
 
-  defaults:
-  -
-    scope:
-      path:            "essays/**/*.pdf"
-    values:
-      sitemap:         false
 
 
 # OPTIONAL CHANGES
